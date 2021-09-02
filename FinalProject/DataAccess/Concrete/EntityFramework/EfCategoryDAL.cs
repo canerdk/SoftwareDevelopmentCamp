@@ -24,7 +24,7 @@ namespace DataAccess.Concrete.EntityFramework
             throw new NotImplementedException();
         }
 
-        public List<Category> GetALL(Expression<Func<Category, bool>> filter = null)
+        public List<Category> GetAll(Expression<Func<Category, bool>> filter = null)
         {
             throw new NotImplementedException();
         }

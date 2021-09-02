@@ -39,7 +39,7 @@ namespace DataAccess.Concrete.EntityFramework
             }
         }
 
-        public List<Product> GetALL(Expression<Func<Product, bool>> filter = null)
+        public List<Product> GetAll(Expression<Func<Product, bool>> filter = null)
         {
             using (FinalProjectContext context = new FinalProjectContext())
             {

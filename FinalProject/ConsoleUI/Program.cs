@@ -12,7 +12,7 @@ namespace ConsoleUI
         static void Main(string[] args)
         {
             ProductManager productManager = new ProductManager(new EfProductDAL());
-            List<Product> products = productManager.GetAll();
+            List<Product> products = productManager.GetAllByCategoryId(2);
 
             foreach (var p in products)
             {
