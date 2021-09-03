@@ -7,3 +7,6 @@ C:\Users\caner\Desktop\DotNetCamp\SoftwareDevelopmentCamp\FinalProject\Entities\
 C:\Users\caner\Desktop\DotNetCamp\SoftwareDevelopmentCamp\FinalProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
 C:\Users\caner\Desktop\DotNetCamp\SoftwareDevelopmentCamp\FinalProject\Entities\obj\Debug\netstandard2.0\Entities.dll
 C:\Users\caner\Desktop\DotNetCamp\SoftwareDevelopmentCamp\FinalProject\Entities\obj\Debug\netstandard2.0\Entities.pdb
+C:\Users\caner\Desktop\DotNetCamp\SoftwareDevelopmentCamp\FinalProject\Entities\bin\Debug\netstandard2.0\Core.dll
+C:\Users\caner\Desktop\DotNetCamp\SoftwareDevelopmentCamp\FinalProject\Entities\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\caner\Desktop\DotNetCamp\SoftwareDevelopmentCamp\FinalProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete

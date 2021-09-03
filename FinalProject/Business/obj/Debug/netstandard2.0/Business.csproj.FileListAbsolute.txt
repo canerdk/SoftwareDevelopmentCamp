@@ -12,3 +12,5 @@ C:\Users\caner\Desktop\DotNetCamp\SoftwareDevelopmentCamp\FinalProject\Business\
 C:\Users\caner\Desktop\DotNetCamp\SoftwareDevelopmentCamp\FinalProject\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
 C:\Users\caner\Desktop\DotNetCamp\SoftwareDevelopmentCamp\FinalProject\Business\obj\Debug\netstandard2.0\Business.dll
 C:\Users\caner\Desktop\DotNetCamp\SoftwareDevelopmentCamp\FinalProject\Business\obj\Debug\netstandard2.0\Business.pdb
+C:\Users\caner\Desktop\DotNetCamp\SoftwareDevelopmentCamp\FinalProject\Business\bin\Debug\netstandard2.0\Core.dll
+C:\Users\caner\Desktop\DotNetCamp\SoftwareDevelopmentCamp\FinalProject\Business\bin\Debug\netstandard2.0\Core.pdb
