@@ -12,14 +12,20 @@ namespace ConsoleUI
         static void Main(string[] args)
         {
             ProductManager productManager = new ProductManager(new EfProductDAL());
-            Product product = new Product();
-            product.CategoryId = 1;
-            product.Name = "deneme";
-            product.UnitPrice = 15;
-            product.UnitsInStock = 25;
+            var result = productManager.GetProductDetails();
 
-            productManager.Add(product);
-            Console.WriteLine(product);
+            if (result.Success)
+            {
+                foreach (var product in result.Data)
+                {
+                    Console.WriteLine(product.ProductName + " " + product.CategoryName);
+                }
+            }
+            else
+            {
+                Console.WriteLine(result.Message);
+            }
+
         }
     }
 }
