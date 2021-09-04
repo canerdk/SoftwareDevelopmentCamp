@@ -12,14 +12,14 @@ namespace ConsoleUI
         static void Main(string[] args)
         {
             ProductManager productManager = new ProductManager(new EfProductDAL());
-            List<Product> products = productManager.GetAllByCategoryId(2);
+            Product product = new Product();
+            product.CategoryId = 1;
+            product.Name = "deneme";
+            product.UnitPrice = 15;
+            product.UnitsInStock = 25;
 
-            CategoryManager categoryManager = new CategoryManager(new EfCategoryDAL());
-
-            foreach (var p in productManager.GetProductDetails())
-            {
-                Console.WriteLine(p.ProductName + " " + p.CategoryName);
-            }
+            productManager.Add(product);
+            Console.WriteLine(product);
         }
     }
 }
