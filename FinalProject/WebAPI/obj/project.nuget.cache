@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "R7MsIQeT+76vAtHmLNznevGCCJtZcOr1hk3kjZWtmm5Ibliurn26jJNqjjIPRz89CAnYpeFVeBPh7+4rdbrmvA==",
+  "dgSpecHash": "rE07PoTabOcjr0aZln5MgdcFWFC6+wpzGPlg0FGStCefiV8RWeBeb2sTqjcmtAGXWf7vSOinlyflNNBtZ+9Fng==",
   "success": true,
   "projectFilePath": "C:\\Users\\caner\\Desktop\\DotNetCamp\\SoftwareDevelopmentCamp\\FinalProject\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\caner\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",
     "C:\\Users\\caner\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.0\\autofac.extras.dynamicproxy.6.0.0.nupkg.sha512",
     "C:\\Users\\caner\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
+    "C:\\Users\\caner\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
     "C:\\Users\\caner\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\caner\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
     "C:\\Users\\caner\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\3.1.0\\microsoft.aspnetcore.razor.language.3.1.0.nupkg.sha512",
