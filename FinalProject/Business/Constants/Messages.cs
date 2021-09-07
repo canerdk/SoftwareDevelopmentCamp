@@ -14,5 +14,6 @@ namespace Business.Constants
         public static string MaintenanceTime = "Bakım zamanı";
         public static string ProductDetailsListed = "Ürün detayı listelendi";
         public static string CategoryLimitExceded = "Kategori limiti aşıldı";
+        public static string AuthorizationDenied = "Doğrulama başarısız";
     }
 }
