@@ -22,6 +22,7 @@ namespace Business.DependencyResolvers.Autofac
             builder.RegisterType<CategoryManager>().As<ICategoryService>().SingleInstance();
             builder.RegisterType<EfCategoryDAL>().As<ICategoryDAL>().SingleInstance();
 
+
             var assembly = System.Reflection.Assembly.GetExecutingAssembly();
 
             builder.RegisterAssemblyTypes(assembly).AsImplementedInterfaces()

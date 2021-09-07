@@ -11,7 +11,7 @@ namespace ConsoleUI
     {
         static void Main(string[] args)
         {
-            ProductManager productManager = new ProductManager(new EfProductDAL());
+            ProductManager productManager = new ProductManager(new EfProductDAL(), new CategoryManager(new EfCategoryDAL()));
             var result = productManager.GetProductDetails();
 
             if (result.Success)
