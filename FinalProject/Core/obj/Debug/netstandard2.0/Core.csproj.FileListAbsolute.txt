@@ -6,3 +6,4 @@ C:\Users\caner\Desktop\DotNetCamp\SoftwareDevelopmentCamp\FinalProject\Core\obj\
 C:\Users\caner\Desktop\DotNetCamp\SoftwareDevelopmentCamp\FinalProject\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
 C:\Users\caner\Desktop\DotNetCamp\SoftwareDevelopmentCamp\FinalProject\Core\obj\Debug\netstandard2.0\Core.dll
 C:\Users\caner\Desktop\DotNetCamp\SoftwareDevelopmentCamp\FinalProject\Core\obj\Debug\netstandard2.0\Core.pdb
+C:\Users\caner\Desktop\DotNetCamp\SoftwareDevelopmentCamp\FinalProject\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
