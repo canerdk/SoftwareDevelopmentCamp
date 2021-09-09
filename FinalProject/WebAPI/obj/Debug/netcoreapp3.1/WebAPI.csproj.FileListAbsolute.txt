@@ -142,5 +142,13 @@ C:\Users\caner\Desktop\DotNetCamp\SoftwareDevelopmentCamp\FinalProject\WebAPI\bi
 C:\Users\caner\Desktop\DotNetCamp\SoftwareDevelopmentCamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
 C:\Users\caner\Desktop\DotNetCamp\SoftwareDevelopmentCamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
 C:\Users\caner\Desktop\DotNetCamp\SoftwareDevelopmentCamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\caner\Desktop\DotNetCamp\SoftwareDevelopmentCamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\caner\Desktop\DotNetCamp\SoftwareDevelopmentCamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\caner\Desktop\DotNetCamp\SoftwareDevelopmentCamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\MicroKnights.Log4NetAdoNetAppender.dll
+C:\Users\caner\Desktop\DotNetCamp\SoftwareDevelopmentCamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\caner\Desktop\DotNetCamp\SoftwareDevelopmentCamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\caner\Desktop\DotNetCamp\SoftwareDevelopmentCamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\caner\Desktop\DotNetCamp\SoftwareDevelopmentCamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\caner\Desktop\DotNetCamp\SoftwareDevelopmentCamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
 C:\Users\caner\Desktop\DotNetCamp\SoftwareDevelopmentCamp\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
 C:\Users\caner\Desktop\DotNetCamp\SoftwareDevelopmentCamp\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
