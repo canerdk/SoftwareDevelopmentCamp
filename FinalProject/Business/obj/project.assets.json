@@ -6848,7 +6848,8 @@
       "FluentValidation >= 10.3.3",
       "Microsoft.AspNetCore.Http.Abstractions >= 2.2.0",
       "Microsoft.Extensions.DependencyInjection >= 5.0.2",
-      "NETStandard.Library >= 2.0.3"
+      "NETStandard.Library >= 2.0.3",
+      "log4net >= 2.0.12"
     ]
   },
   "packageFolders": {
@@ -6928,6 +6929,10 @@
             "target": "Package",
             "version": "[2.0.3, )",
             "autoReferenced": true
+          },
+          "log4net": {
+            "target": "Package",
+            "version": "[2.0.12, )"
           }
         },
         "imports": [

@@ -63,7 +63,7 @@ namespace Business.Concrete
             return new SuccessDataResult<List<Product>>(_productDal.GetAll(), Messages.ProductsListed);
         }
 
-        public IDataResult<List<Product>> GetAllByCategoryId(int categoryId)
+        public IDataResult<List<Product>> GetByCategoryId(int categoryId)
         {
             return new SuccessDataResult<List<Product>>(_productDal.GetAll(x => x.CategoryId == categoryId));
         }
