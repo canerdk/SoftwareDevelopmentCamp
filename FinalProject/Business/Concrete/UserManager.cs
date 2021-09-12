@@ -30,6 +30,7 @@ namespace Business.Concrete
         {
             return _userDal.Get(u => u.Email == email);
         }
+
     }
 
 }
